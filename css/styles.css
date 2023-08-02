@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -21,4 +23,15 @@ body {
     height: 250px;
     object-fit: cover;
     border-radius: 10px;
+}
+
+.title h1 {
+    color: hsl(218, 44%, 22%);
+}
+.description {
+
+}
+.description p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
 }
